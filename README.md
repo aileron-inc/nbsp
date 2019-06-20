@@ -30,6 +30,7 @@ Or install it yourself as:
         &nbsp;
         <span>User</span>
     </div>
+```
 
 ## Development
 
